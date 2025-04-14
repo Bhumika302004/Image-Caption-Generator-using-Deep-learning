@@ -1,0 +1,1 @@
+This project is an **Image Caption Generator** that uses deep learning to generate human-like captions for images. It combines the power of Convolutional Neural Networks (CNNs) for image feature extraction and Recurrent Neural Networks (RNNs) for sequence generation.
